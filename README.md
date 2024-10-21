@@ -1,6 +1,6 @@
 # age-calculator
 
-> Get age in different formats.
+> Age-calculator is an npm package I developed that offers a convenient way for users to determine their age in multiple formats. By simply entering a date of birth, users can view their age as a complete year count, in months, days, or even down to minutes. This package demonstrates my skills in JavaScript and npm package development, providing an easy-to-use solution for accurate age calculation across various formats.
 
 <!-- <a href="https://www.npmjs.com/package/@asif92/age-calculator"><img alt="npm" src="https://img.shields.io/npm/v/@asif92/age-calculator?color=purple&label=age-calculator&style=plastic"></a> -->
 <a href="https://www.npmjs.com/package/@asif92/age-calculator"><img alt="npm" src="https://img.shields.io/npm/v/age-calculator?color=lightgreen&label=age-calculator&style=plastic"></a>
